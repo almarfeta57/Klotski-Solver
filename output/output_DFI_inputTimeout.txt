@@ -1,0 +1,4 @@
+DFI
+
+Functia a intrat in timeout
+==========================================

@@ -1,0 +1,307 @@
+A*, euristica banala
+
+Functia a intrat in timeout
+==========================================
+A*, euristica 1
+Solutie: 
+1)
+
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+2)
+Mutam b in dreapta
+# # # . . # #
+# e e . b . #
+# e . . b . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+3)
+Mutam * in sus
+# # # . . # #
+# e e . b . #
+# e * * b . #
+# a * * c . #
+# a . . c . #
+# # # # # # #
+
+4)
+Mutam c in dreapta
+# # # . . # #
+# e e . b . #
+# e * * b . #
+# a * * . c #
+# a . . . c #
+# # # # # # #
+
+5)
+Mutam b in dreapta
+# # # . . # #
+# e e . . b #
+# e * * . b #
+# a * * . c #
+# a . . . c #
+# # # # # # #
+
+6)
+Mutam * in dreapta
+# # # . . # #
+# e e . . b #
+# e . * * b #
+# a . * * c #
+# a . . . c #
+# # # # # # #
+
+7)
+Mutam * in sus
+# # # . . # #
+# e e * * b #
+# e . * * b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+8)
+Mutam * in sus
+# # # * * # #
+# e e * * b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+9)
+Mutam * in sus
+# # # * * # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+10)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+Cost: 12
+Lungime: 10
+1.3697013854980469secunde
+Numarul maxim de noduri aflate in memorie: 5550
+Numarul total de noduri calculate: 7093
+
+----------------
+Functie finalizata
+==========================================
+A*, euristica 2
+Solutie: 
+1)
+
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+2)
+Mutam b in dreapta
+# # # . . # #
+# e e . b . #
+# e . . b . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+3)
+Mutam * in sus
+# # # . . # #
+# e e . b . #
+# e * * b . #
+# a * * c . #
+# a . . c . #
+# # # # # # #
+
+4)
+Mutam c in dreapta
+# # # . . # #
+# e e . b . #
+# e * * b . #
+# a * * . c #
+# a . . . c #
+# # # # # # #
+
+5)
+Mutam b in dreapta
+# # # . . # #
+# e e . . b #
+# e * * . b #
+# a * * . c #
+# a . . . c #
+# # # # # # #
+
+6)
+Mutam * in dreapta
+# # # . . # #
+# e e . . b #
+# e . * * b #
+# a . * * c #
+# a . . . c #
+# # # # # # #
+
+7)
+Mutam * in sus
+# # # . . # #
+# e e * * b #
+# e . * * b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+8)
+Mutam * in sus
+# # # * * # #
+# e e * * b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+9)
+Mutam * in sus
+# # # * * # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+10)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+Cost: 12
+Lungime: 10
+0.1094505786895752secunde
+Numarul maxim de noduri aflate in memorie: 1483
+Numarul total de noduri calculate: 1906
+
+----------------
+Functie finalizata
+==========================================
+A*, euristica neadmisibila
+Solutie: 
+1)
+
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+2)
+Mutam b in dreapta
+# # # . . # #
+# e e . b . #
+# e . . b . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+3)
+Mutam c in dreapta
+# # # . . # #
+# e e . b . #
+# e . . b . #
+# a * * . c #
+# a * * . c #
+# # # # # # #
+
+4)
+Mutam b in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a * * . c #
+# a * * . c #
+# # # # # # #
+
+5)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e * * . b #
+# a * * . c #
+# a . . . c #
+# # # # # # #
+
+6)
+Mutam * in dreapta
+# # # . . # #
+# e e . . b #
+# e . * * b #
+# a . * * c #
+# a . . . c #
+# # # # # # #
+
+7)
+Mutam * in sus
+# # # . . # #
+# e e * * b #
+# e . * * b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+8)
+Mutam * in sus
+# # # * * # #
+# e e * * b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+9)
+Mutam * in sus
+# # # * * # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+10)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+Cost: 12
+Lungime: 10
+3.9122180938720703secunde
+Numarul maxim de noduri aflate in memorie: 10584
+Numarul total de noduri calculate: 12965
+
+----------------
+Functie finalizata
+==========================================

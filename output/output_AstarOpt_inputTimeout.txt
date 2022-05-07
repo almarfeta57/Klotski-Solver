@@ -1,0 +1,405 @@
+A* optimizat, euristica banala
+
+Solutie: 
+1)
+
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+2)
+Mutam b in dreapta
+# # # . . # #
+# e e . b . #
+# e . . b . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+3)
+Mutam b in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+4)
+Mutam c in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a * * . c #
+# a * * . c #
+# # # # # # #
+
+5)
+Mutam * in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . * * c #
+# a . * * c #
+# # # # # # #
+
+6)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . * * b #
+# a . * * c #
+# a . . . c #
+# # # # # # #
+
+7)
+Mutam * in sus
+# # # . . # #
+# e e * * b #
+# e . * * b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+8)
+Mutam * in sus
+# # # * * # #
+# e e * * b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+9)
+Mutam * in sus
+# # # * * # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+10)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+Cost: 12
+Lungime: 10
+0.21275544166564941secunde
+Numarul maxim de noduri aflate in memorie: 1293
+Numarul total de noduri calculate: 2569
+
+----------------
+Functie finalizata
+==========================================
+A* optimizat, euristica 1
+Solutie: 
+1)
+
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+2)
+Mutam b in dreapta
+# # # . . # #
+# e e . b . #
+# e . . b . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+3)
+Mutam * in sus
+# # # . . # #
+# e e . b . #
+# e * * b . #
+# a * * c . #
+# a . . c . #
+# # # # # # #
+
+4)
+Mutam c in dreapta
+# # # . . # #
+# e e . b . #
+# e * * b . #
+# a * * . c #
+# a . . . c #
+# # # # # # #
+
+5)
+Mutam b in dreapta
+# # # . . # #
+# e e . . b #
+# e * * . b #
+# a * * . c #
+# a . . . c #
+# # # # # # #
+
+6)
+Mutam * in dreapta
+# # # . . # #
+# e e . . b #
+# e . * * b #
+# a . * * c #
+# a . . . c #
+# # # # # # #
+
+7)
+Mutam * in sus
+# # # . . # #
+# e e * * b #
+# e . * * b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+8)
+Mutam * in sus
+# # # * * # #
+# e e * * b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+9)
+Mutam * in sus
+# # # * * # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+10)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+Cost: 12
+Lungime: 10
+0.06080818176269531secunde
+Numarul maxim de noduri aflate in memorie: 522
+Numarul total de noduri calculate: 993
+
+----------------
+Functie finalizata
+==========================================
+A* optimizat, euristica 2
+Solutie: 
+1)
+
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+2)
+Mutam c in dreapta
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * . c #
+# a * * . c #
+# # # # # # #
+
+3)
+Mutam * in dreapta
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a . * * c #
+# a . * * c #
+# # # # # # #
+
+4)
+Mutam b in dreapta
+# # # . . # #
+# e e . b . #
+# e . . b . #
+# a . * * c #
+# a . * * c #
+# # # # # # #
+
+5)
+Mutam b in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . * * c #
+# a . * * c #
+# # # # # # #
+
+6)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . * * b #
+# a . * * c #
+# a . . . c #
+# # # # # # #
+
+7)
+Mutam * in sus
+# # # . . # #
+# e e * * b #
+# e . * * b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+8)
+Mutam * in sus
+# # # * * # #
+# e e * * b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+9)
+Mutam * in sus
+# # # * * # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+10)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+Cost: 12
+Lungime: 10
+0.0303347110748291secunde
+Numarul maxim de noduri aflate in memorie: 318
+Numarul total de noduri calculate: 563
+
+----------------
+Functie finalizata
+==========================================
+A* optimizat, euristica neadmisibila
+Solutie: 
+1)
+
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+2)
+Mutam c in dreapta
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * . c #
+# a * * . c #
+# # # # # # #
+
+3)
+Mutam b in dreapta
+# # # . . # #
+# e e . b . #
+# e . . b . #
+# a * * . c #
+# a * * . c #
+# # # # # # #
+
+4)
+Mutam b in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a * * . c #
+# a * * . c #
+# # # # # # #
+
+5)
+Mutam * in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . * * c #
+# a . * * c #
+# # # # # # #
+
+6)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . * * b #
+# a . * * c #
+# a . . . c #
+# # # # # # #
+
+7)
+Mutam * in sus
+# # # . . # #
+# e e * * b #
+# e . * * b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+8)
+Mutam * in sus
+# # # * * # #
+# e e * * b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+9)
+Mutam * in sus
+# # # * * # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+10)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+Cost: 12
+Lungime: 10
+0.16180205345153809secunde
+Numarul maxim de noduri aflate in memorie: 863
+Numarul total de noduri calculate: 1674
+
+----------------
+Functie finalizata
+==========================================

@@ -1,0 +1,21 @@
+BF
+
+Solutie: 
+1)
+
+# # # . . # #
+# e b . . . #
+# e b . . . #
+# a a a c . #
+# a . c c . #
+# # # # # # #
+
+Cost: 0
+Lungime: 1
+0.0secunde
+Numarul maxim de noduri aflate in memorie: 1
+Numarul total de noduri calculate: 1
+
+----------------
+Functie finalizata
+==========================================

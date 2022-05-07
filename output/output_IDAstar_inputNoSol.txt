@@ -1,0 +1,17 @@
+IDA*, euristica banala
+
+Nu are solutii
+Functie finalizata
+==========================================
+IDA*, euristica 1
+Nu are solutii
+Functie finalizata
+==========================================
+IDA*, euristica 2
+Nu are solutii
+Functie finalizata
+==========================================
+IDA*, euristica neadmisibila
+Nu are solutii
+Functie finalizata
+==========================================

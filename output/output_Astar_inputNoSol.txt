@@ -1,0 +1,17 @@
+A*, euristica banala
+
+Nu are solutii
+Functie finalizata
+==========================================
+A*, euristica 1
+Nu are solutii
+Functie finalizata
+==========================================
+A*, euristica 2
+Nu are solutii
+Functie finalizata
+==========================================
+A*, euristica neadmisibila
+Nu are solutii
+Functie finalizata
+==========================================

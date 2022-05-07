@@ -1,0 +1,405 @@
+IDA*, euristica banala
+
+Solutie: 
+1)
+
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+2)
+Mutam b in dreapta
+# # # . . # #
+# e e . b . #
+# e . . b . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+3)
+Mutam b in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+4)
+Mutam c in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a * * . c #
+# a * * . c #
+# # # # # # #
+
+5)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e * * . b #
+# a * * . c #
+# a . . . c #
+# # # # # # #
+
+6)
+Mutam * in dreapta
+# # # . . # #
+# e e . . b #
+# e . * * b #
+# a . * * c #
+# a . . . c #
+# # # # # # #
+
+7)
+Mutam * in sus
+# # # . . # #
+# e e * * b #
+# e . * * b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+8)
+Mutam * in sus
+# # # * * # #
+# e e * * b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+9)
+Mutam * in sus
+# # # * * # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+10)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+Cost: 12
+Lungime: 10
+2.401097536087036secunde
+Numarul maxim de noduri aflate in memorie: 15067
+Numarul total de noduri calculate: 47355
+
+----------------
+Functie finalizata
+==========================================
+IDA*, euristica 1
+Solutie: 
+1)
+
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+2)
+Mutam b in dreapta
+# # # . . # #
+# e e . b . #
+# e . . b . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+3)
+Mutam b in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+4)
+Mutam c in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a * * . c #
+# a * * . c #
+# # # # # # #
+
+5)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e * * . b #
+# a * * . c #
+# a . . . c #
+# # # # # # #
+
+6)
+Mutam * in dreapta
+# # # . . # #
+# e e . . b #
+# e . * * b #
+# a . * * c #
+# a . . . c #
+# # # # # # #
+
+7)
+Mutam * in sus
+# # # . . # #
+# e e * * b #
+# e . * * b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+8)
+Mutam * in sus
+# # # * * # #
+# e e * * b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+9)
+Mutam * in sus
+# # # * * # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+10)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+Cost: 12
+Lungime: 10
+0.5279107093811035secunde
+Numarul maxim de noduri aflate in memorie: 3664
+Numarul total de noduri calculate: 11859
+
+----------------
+Functie finalizata
+==========================================
+IDA*, euristica 2
+Solutie: 
+1)
+
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+2)
+Mutam b in dreapta
+# # # . . # #
+# e e . b . #
+# e . . b . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+3)
+Mutam b in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+4)
+Mutam c in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a * * . c #
+# a * * . c #
+# # # # # # #
+
+5)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e * * . b #
+# a * * . c #
+# a . . . c #
+# # # # # # #
+
+6)
+Mutam * in dreapta
+# # # . . # #
+# e e . . b #
+# e . * * b #
+# a . * * c #
+# a . . . c #
+# # # # # # #
+
+7)
+Mutam * in sus
+# # # . . # #
+# e e * * b #
+# e . * * b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+8)
+Mutam * in sus
+# # # * * # #
+# e e * * b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+9)
+Mutam * in sus
+# # # * * # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+10)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+Cost: 12
+Lungime: 10
+0.14175796508789062secunde
+Numarul maxim de noduri aflate in memorie: 569
+Numarul total de noduri calculate: 2996
+
+----------------
+Functie finalizata
+==========================================
+IDA*, euristica neadmisibila
+Solutie: 
+1)
+
+# # # . . # #
+# e e b . . #
+# e . b . . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+2)
+Mutam b in dreapta
+# # # . . # #
+# e e . b . #
+# e . . b . #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+3)
+Mutam b in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a * * c . #
+# a * * c . #
+# # # # # # #
+
+4)
+Mutam c in dreapta
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a * * . c #
+# a * * . c #
+# # # # # # #
+
+5)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e * * . b #
+# a * * . c #
+# a . . . c #
+# # # # # # #
+
+6)
+Mutam * in dreapta
+# # # . . # #
+# e e . . b #
+# e . * * b #
+# a . * * c #
+# a . . . c #
+# # # # # # #
+
+7)
+Mutam * in sus
+# # # . . # #
+# e e * * b #
+# e . * * b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+8)
+Mutam * in sus
+# # # * * # #
+# e e * * b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+9)
+Mutam * in sus
+# # # * * # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+10)
+Mutam * in sus
+# # # . . # #
+# e e . . b #
+# e . . . b #
+# a . . . c #
+# a . . . c #
+# # # # # # #
+
+Cost: 12
+Lungime: 10
+0.7515478134155273secunde
+Numarul maxim de noduri aflate in memorie: 5235
+Numarul total de noduri calculate: 16113
+
+----------------
+Functie finalizata
+==========================================
